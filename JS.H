@@ -133,4 +133,28 @@ https://www.cnblogs.com/ranyonsue/p/5984001.html
 
 */
 
+20171226
+/*
+图解HTTP
+P42/220 管线化 pipelining //hlhu: bt ?
+P72/220 第5章 与HTTP协作的Web服务器
+P81/220 第6章 HTTP首部
+非HTTP/1.1首部字段 RFC4229
+P135/220 确保Web安全的HTTPS
+用SSL建立安全通信线路之后，就可以在这条线路上进行HTTP通信了。与SSL组合使用的HTTP被称为HTTPS(HTTP Secure，超文本传输安全协议)或HTTP over SSL
+HTTP + 加密 + 认证 + 完整性保护 = HTTPS
+公开密钥 + 私有密钥 如何能保证安全 //hlhu: not clear
+P166/220 基于HTTP的功能追加协议
+P169/220 Ajax的核心技术是名为XMLHttpRequest的API，通过JavaScript脚本语言的调用就能和服务器进行HTTP通信。借由这种手段，就能从已加载完毕的Web页面上发起请求，只更新局部页面。
+WebSocket
+P182/第10章 构建Web内容的技术
+P191/220 第11章 Web的攻击技术
+*/
+/*
+#从远程分支拉取代码到本地  
+git pull upstream  master  
+#push到自己的库里  
+git push  origin master
+*/
+
 
