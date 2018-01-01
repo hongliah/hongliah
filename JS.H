@@ -157,4 +157,16 @@ git pull upstream  master
 git push  origin master
 */
 
+20180101
+/*
+new year. back to JavaScript王者归来
+P50/740 第2章 浏览器中的JavaScript
+2.1.3 代码什么时候执行
+直接嵌入在web页面上的JavaScript代码默认在页面装载期间会被立即执行，注册到事件上的代码则在事件被触发时才被执行。
+2.2.2 JavaScript对CSS的方便操作令在Web界面上实现"换肤"效果变得如此简单。
+2.3 使用JavaScript来与用户交互
+JavaScript校验数据合法性是目前JavaScript在信息系统中被使用最频繁的一个功能
+P67
+*/
+
 
