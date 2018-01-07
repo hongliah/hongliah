@@ -169,4 +169,9 @@ JavaScript校验数据合法性是目前JavaScript在信息系统中被使用最
 P67
 */
 
+20180107
+/*
+mcalc 1.0 released, set height in td, not in input, works.
+next to try local file read/write.
+*/
 
