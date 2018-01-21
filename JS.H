@@ -175,3 +175,25 @@ mcalc 1.0 released, set height in td, not in input, works.
 next to try local file read/write.
 */
 
+/*
+곰 세 마리가 한 집에 있어
+kongm cai ma li ga han ji bai yi sao
+아빠 곰, 엄마 곰, 애기 곰
+a ba gongm ou ma gongm ai gi gongm
+아빠 곰은 뚱뚱해
+a ba gong men dong dong hai
+엄마 곰은 날씬해
+ou ma gong men naer xi nai
+애기 곰은 너무 귀여워
+ai gi gong men nao mu gui yao wo
+으쓱으쓱 잘한다
+e sug e sug ca lan da
+*/
+20180120
+/*
+P159/740 第6章 函数
+在JavaScript中，最直接和最有用的函数定义方式事实上是闭包。
+mcalc.logs keep the original object array of record. record create, write to logs, read out, access as before
+匿名函数 lambda函数 lambda算子
+P181/740
+*/
