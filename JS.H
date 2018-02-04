@@ -197,3 +197,17 @@ mcalc.logs keep the original object array of record. record create, write to log
 匿名函数 lambda函数 lambda算子
 P181/740
 */
+
+20180203
+/*
+http://blog.csdn.net/a343315623/article/details/51436933
+adb shell input swipe 30 30 30 30 50这种方式必须要4.4之上，我的只有4.3
+*/
+
+20180204
+/*
+developer.android.google.cn
+developer.google.cn
+https://developer.android.google.cn/studio/releases/platform-tools.html
+*/
+
